@@ -114,7 +114,7 @@ Error generating stack: `+o.message+`
     background: radial-gradient(closest-side, rgba(0, 0, 0, 0.1) 50%, transparent 50%);
     background-size: 20px 20px;
     background-position: center;
-`;function Dm(){return dt(Im,{style:{height:"100vh"},children:[pe($m,{}),dt(Am,{style:{flexDirection:"column",flex:1},children:[pe(Om,{}),pe(Nm,{url:"/src/assets/video/3197123327.mp4"})]}),dt("div",{style:{display:"flex",flexDirection:"column",alignItems:"center",color:"#aaa",marginBottom:"10px"},children:[dt("p",{children:["Video from"," ",pe("a",{href:"https://www.pexels.com/",children:"https://www.pexels.com/"})]}),dt("p",{children:["author:"," ",pe("a",{href:"https://www.pexels.com/zh-cn/@matthiasgroeneveld/",children:"Matthias Groeneveld"})]})]})]})}const Mm=om`
+`;function Dm(){return dt(Im,{style:{height:"100vh"},children:[pe($m,{}),dt(Am,{style:{flexDirection:"column",flex:1},children:[pe(Om,{}),pe(Nm,{url:"/video/3197123327.mp4"})]}),dt("div",{style:{display:"flex",flexDirection:"column",alignItems:"center",color:"#aaa",marginBottom:"10px"},children:[dt("p",{children:["Video from"," ",pe("a",{href:"https://www.pexels.com/",children:"https://www.pexels.com/"})]}),dt("p",{children:["author:"," ",pe("a",{href:"https://www.pexels.com/zh-cn/@matthiasgroeneveld/",children:"Matthias Groeneveld"})]})]})]})}const Mm=om`
     * {
         margin: 0;
         padding: 0;

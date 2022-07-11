@@ -1,0 +1,39 @@
+{
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.tsx"
+    ],
+    "exclude": [
+        "node_modules",
+        ".storybook",
+        "stories",
+        "dist"
+    ],
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "esnext",
+        "lib": [
+            "ESNext",
+            "DOM",
+            "DOM.Iterable"
+        ],
+        "moduleResolution": "node",
+        "strict": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "jsx": "react",
+        "declaration": true,
+        "pretty": true,
+        "rootDir": ".",
+        "baseUrl": ".",
+        "esModuleInterop": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noImplicitAny": false,
+        "noFallthroughCasesInSwitch": true,
+        "importHelpers": true,
+        "sourceMap": false,
+        "resolveJsonModule": true,
+    }
+}

@@ -20,7 +20,7 @@ function App() {
             <Header />
             <Center style={{ flexDirection: 'column', flex: 1 }}>
                 <Description />
-                <Download url="/video/3197123327.mp4" />
+                <Download url="./video/3197123327.mp4" />
             </Center>
             <div
                 style={{
